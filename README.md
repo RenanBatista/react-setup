@@ -1,2 +1,2 @@
 # react-setup
-work in progress
+A custom setup for react, without use of create-react-app or another framework
